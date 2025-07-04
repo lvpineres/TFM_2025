@@ -18,3 +18,5 @@ The project is made in the develop environment of Jupyter notebook with python3.
 
 
 print("groupedUMAP data saved as 'groupedUMAP_proteomics.csv'")
+
+![image](https://github.com/user-attachments/assets/cb82cff2-dbaa-4c1a-90f1-5e8b315844a6)
